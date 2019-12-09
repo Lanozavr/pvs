@@ -15,7 +15,7 @@
     "express": "~4.0.0",
     "open": "0.0.5",
     "tracer": "0.7.1",
-    "ws": "0.4.x"
+    "ws": "7.2.x"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "^0.11.1",
